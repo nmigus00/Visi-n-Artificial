@@ -20,4 +20,4 @@ En la segunda ejecución ya con el modelo guardado queríamos evaluarlo con el s
 
 Aunque no dispusimos del tiempo necesario para la ejecución de los códigos por los cambios en los Dataset estos serían los pasos a la hora de ejecutarlo todo.
 
-IMPORTANTE: Para una correcta ejecución se deben modificar las rutas de los dos códigos. Los dos códigos tienen sus respèctivas anotaciones de las imágenes en un .txt.
+IMPORTANTE: Para una correcta ejecución se deben modificar las rutas de los dos códigos. Los dos códigos tienen sus respectivas anotaciones de las imágenes en un .txt.
